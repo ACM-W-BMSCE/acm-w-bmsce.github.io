@@ -1,14 +1,14 @@
 # ACM-W BMSCE - The official Website.
 
-[![GitHub license](https://github.com/ACM-W-BMSCE/acm-w-bmsce.github.io/blob/master/LICENSE)]
-[![GitHub stars](https://github.com/ACM-W-BMSCE/acm-w-bmsce.github.io/stargazers)]
-[![GitHub forks](https://github.com/ACM-W-BMSCE/acm-w-bmsce.github.io/network/members)]
+![GitHub license](https://github.com/ACM-W-BMSCE/acm-w-bmsce.github.io/blob/master/LICENSE)
+![GitHub stars](https://github.com/ACM-W-BMSCE/acm-w-bmsce.github.io/stargazers)
+![GitHub forks](https://github.com/ACM-W-BMSCE/acm-w-bmsce.github.io/network/members)
 
 > **You can view the demo [here](https://acm-w-bmsce.github.io/).**
 
 
-[![ACM-W](https://img.shields.io/badge/ACM--W-BMSCE-orange)]
-[![Internships](https://img.shields.io/badge/IoT-Project-teal.svg?colorA=blue&colorB=red&style=for-the-badge)]
+![ACM-W](https://img.shields.io/badge/ACM--W-BMSCE-orange)
+
 
 blah blah
 
@@ -20,11 +20,11 @@ blah blah
 
 ## Getting Started
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Water-Monitoring-System?logo=github)](https://github.com/ACM-W-BMSCE/acm-w-bmsce.github.io) 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Water-Monitoring-System?logo=github)](https://github.com/ACM-W-BMSCE/acm-w-bmsce.github.io) 
 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/vinitshahdeo/Water-Monitoring-System?color=bluevoilet&logo=github)](https://github.com/ACM-W-BMSCE/acm-w-bmsce.github.io) 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/vinitshahdeo/Water-Monitoring-System?color=bluevoilet&logo=github)](https://github.com/ACM-W-BMSCE/acm-w-bmsce.github.io) 
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/vinitshahdeo/Water-Monitoring-System?logo=github)](https://github.com/ACM-W-BMSCE/acm-w-bmsce.github.io)
+![GitHub repo size](https://img.shields.io/github/repo-size/vinitshahdeo/Water-Monitoring-System?logo=github)](https://github.com/ACM-W-BMSCE/acm-w-bmsce.github.io)
 
 **1.** Fork [this](https://github.com/ACM-W-BMSCE/acm-w-bmsce.github.io) repository.
 
