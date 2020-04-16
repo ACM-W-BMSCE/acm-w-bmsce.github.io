@@ -6,16 +6,16 @@
 
 > **You can view the demo [here](https://acm-w-bmsce.github.io/).**
 
-(https://img.shields.io/badge/ACM--W-BMSCE-orange)
-[![Scholarships](https://img.shields.io/badge/Water Monitoring-System-teal.svg?colorA=teal&colorB=orange&style=for-the-badge)]
+
+[![ACM-W](https://img.shields.io/badge/ACM--W-BMSCE-orange)]
 [![Internships](https://img.shields.io/badge/IoT-Project-teal.svg?colorA=blue&colorB=red&style=for-the-badge)]
 
 blah blah
 
 ### Goals of this project :
 
-- **_To reduce the wastage of water across the city_**
-- **_To provide better water supply to the people_**
+- **_To reduce thty_**
+- **_To pe_**
 
 
 ## Getting Started
