@@ -1,11 +1,12 @@
-# ACM-W BMSCE - - The official Website.
+# ACM-W BMSCE - The official Website.
 
-[![GitHub license]](https://github.com/ACM-W-BMSCE/acm-w-bmsce.github.io/blob/master/LICENSE) 
-[![GitHub stars](https://github.com/ACM-W-BMSCE/acm-w-bmsce.github.io/stargazers) 
-[![GitHub forks](https://github.com/ACM-W-BMSCE/acm-w-bmsce.github.io/network/members) 
+[![GitHub license](https://github.com/ACM-W-BMSCE/acm-w-bmsce.github.io/blob/master/LICENSE)]
+[![GitHub stars](https://github.com/ACM-W-BMSCE/acm-w-bmsce.github.io/stargazers)]
+[![GitHub forks](https://github.com/ACM-W-BMSCE/acm-w-bmsce.github.io/network/members)]
 
 > **You can view the demo [here](https://acm-w-bmsce.github.io/).**
 
+(https://img.shields.io/badge/ACM--W-BMSCE-orange)
 [![Scholarships](https://img.shields.io/badge/Water Monitoring-System-teal.svg?colorA=teal&colorB=orange&style=for-the-badge)]
 [![Internships](https://img.shields.io/badge/IoT-Project-teal.svg?colorA=blue&colorB=red&style=for-the-badge)]
 
