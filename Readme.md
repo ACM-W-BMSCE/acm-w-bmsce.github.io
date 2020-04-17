@@ -1,6 +1,6 @@
 # ACM-W BMSCE - The official Website.
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-success.svg?style=for-the-badge&logo=gitter)] (https://github.com/ACM-W-BMSCE/acm-w-bmsce.github.io/blob/master/LICENSE)
+![GitHub license](https://img.shields.io/badge/license-MIT-success.svg?style=for-the-badge&logo=gitter) (https://github.com/ACM-W-BMSCE/acm-w-bmsce.github.io/blob/master/LICENSE)
 ![GitHub stars](https://github.com/ACM-W-BMSCE/acm-w-bmsce.github.io/stargazers)
 ![GitHub forks](https://github.com/ACM-W-BMSCE/acm-w-bmsce.github.io/network/members)
 
